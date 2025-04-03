@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e37fb70.css",
+    "main.js": "/static/js/main.e7ce76ff.js",
+    "static/js/317.0fbd0301.chunk.js": "/static/js/317.0fbd0301.chunk.js",
+    "static/media/crawen-mockup-pc1.webp": "/static/media/crawen-mockup-pc1.a6c34d0d3d302f1db685.webp",
+    "static/media/twitter.webp": "/static/media/twitter.ba040ffaee1198780b9f.webp",
+    "static/media/reddit.webp": "/static/media/reddit.ae191dcea275b99b4632.webp",
+    "static/media/buymeacoffe.webp": "/static/media/buymeacoffe.e886e559244b0bce4c5c.webp",
+    "static/media/karma.webp": "/static/media/karma.f2e0125dc480db563fb5.webp",
+    "static/media/telegram.webp": "/static/media/telegram.3da4f01f5fb10f04e765.webp",
+    "static/media/facebook.webp": "/static/media/facebook.7d0747f154c192eea19b.webp",
+    "static/media/youtube.webp": "/static/media/youtube.5604d6ef5cab13b5ef5b.webp",
+    "static/media/discord.webp": "/static/media/discord.5915bf9742a3684be003.webp",
+    "index.html": "/index.html",
+    "main.3e37fb70.css.map": "/static/css/main.3e37fb70.css.map",
+    "main.e7ce76ff.js.map": "/static/js/main.e7ce76ff.js.map",
+    "317.0fbd0301.chunk.js.map": "/static/js/317.0fbd0301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e37fb70.css",
+    "static/js/main.e7ce76ff.js"
+  ]
+}
